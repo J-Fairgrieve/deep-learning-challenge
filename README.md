@@ -7,4 +7,8 @@ The aim of this project was to transform a raw data file & use deep learning met
  - Compiling, Training & Evaluating a Model
  - Model Optimisation
 
+<<<<<<< HEAD
 A report containing an analysis has also been created.
+=======
+A report containing an analysis has also been created.
+>>>>>>> c3af9ffcb462aaf9d28846dd3ed2e4f04affd5aa
